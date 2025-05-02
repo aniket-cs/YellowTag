@@ -1,6 +1,5 @@
-# 🔍 Port Scanner GUI
-
-A simple and interactive port scanner application built with **Python** and **Kivy**. This tool allows users to scan a target host for open TCP ports and displays services and banners, if available.
+# 🔍 YellowTag - Port Scanning Tool
+A simple and interactive cross-platform port scanner application built with **Python** and **Kivy**. This tool allows users to scan a target host for open TCP ports and displays services and banners, if available.
 
 ## 🚀 Features
 
@@ -8,6 +7,7 @@ A simple and interactive port scanner application built with **Python** and **Ki
 - View open ports with associated service names and banners
 - Simple, responsive GUI using Kivy
 - Clear feedback and progress display during scan
+- cross-platform, works on both Windows and macOS
 
 ## 🖼️ GUI Preview
 #### This is the application interface in macOS.
